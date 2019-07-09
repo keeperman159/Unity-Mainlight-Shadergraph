@@ -1,4 +1,4 @@
-# MainlightNode for Unity3D Shadergraph
+# MainlightNode for Unity3D Shadergraph (Custom function node)
 
 Originally made by ciro-unity for an older version shader graphs custom nodes 
 (https://gist.github.com/ciro-unity/a55d73bcda93ca149cf7fd7e407f8812)
